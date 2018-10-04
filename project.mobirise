@@ -10,7 +10,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.8.4"
   },
   "pages": {
@@ -45,9 +45,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "title": "Edward J Quinn",
+          "text": "<br>Learn more about my experience, latest project, how I spend my free time, and where I get my inspiration below!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Projects Portfolio<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"assets/files/equinn%20resume%20(4).pdf\" data-toolbar=\"-mbrBtnMove\">Resume</a>",
           "_tags": [
             "Theme"
           ],
