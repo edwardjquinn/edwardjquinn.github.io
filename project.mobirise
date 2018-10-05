@@ -88,7 +88,7 @@
           },
           "title": "Ed Quinn",
           "text": "Learn about my experience, latest projects, how I spend my free time, and where I get my inspiration below!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume%20(4).pdf\" data-toolbar=\"-mbrBtnMove\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn resume (4).pdf\" data-toolbar=\"-mbrBtnMove\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
           ],
@@ -125,7 +125,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/drones-nats-7-way-1-600x360.jpg",
+              "src": "@PROJECT_PATH@/assets/images/drone-city-lights-skyline-678499576h-1-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -136,7 +136,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/costaconcordiamuster-1-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hidkd-1-600x401.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -147,7 +147,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/istock-844535647-600x425.jpg",
+              "src": "@PROJECT_PATH@/assets/images/istock-844535646h-1-600x425.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -232,7 +232,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Connect with me",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edquinn111\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/ed-quinn-367871b2/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Odnoklassniki\" target=\"_blank\" href=\"edwardjquinnblog.wordpress.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edquinn111\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/113959006244043066144\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/ed-quinn-367871b2/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Odnoklassniki\" target=\"_blank\" href=\"www.edwardjquinnblog.wordpress.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "_tags": [
             "Theme"
           ],
