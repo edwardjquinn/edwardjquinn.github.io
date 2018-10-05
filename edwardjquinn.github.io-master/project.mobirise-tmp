@@ -36,7 +36,9 @@
     "siteFonts": [],
     "uniqCompNum": 5,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/equin/Desktop/Git"
   },
   "pages": {
     "index.html": {
