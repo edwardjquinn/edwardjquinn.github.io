@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#8ab0d4",
         "#a3c7e7",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#222222"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -119,7 +120,7 @@
             "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#222222",
             "overlayOpacity": 0.2
           },
           "_tags": [
