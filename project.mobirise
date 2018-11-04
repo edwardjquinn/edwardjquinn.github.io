@@ -29,9 +29,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 7,
+    "uniqCompNum": 9,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -88,7 +90,7 @@
           },
           "title": "Ed Quinn",
           "text": "Learn about my experience, latest projects, how I spend my free time, and where I get my inspiration below!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn resume (4).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume%20(6).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
           ],
@@ -97,6 +99,123 @@
           "_styles": {
             ".btn": {
               "font-size": "12px"
+            }
+          }
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "My Professional Experience",
+          "subtitle": "Some of the great companies I have worked for and the value I brought!",
+          "testimonial": [
+            {
+              "authorName": "iCorps Technologies, Boston MA<br>",
+              "authorBio": "User",
+              "text": "iCorps Technologies, Microsoft Partner, is a prestegious comany. I have worked as a Systems Consultant at iCorps since graduation. In this position I help companies transform their businesses with emerging and leading technologies to help them meet their business and technology goals. As a valued member at iCorps I help implement and manage these technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-81-160x153.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.icorps.com/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              }
+            },
+            {
+              "authorName": "Information Technology Services, State College PA",
+              "authorBio": "User",
+              "text": "Alongside obtaining my degree at Penn State, I worked as an IT Consultant at PSU Information Technology Services. Here I worked my way through the ranks for three years. I started in a computer lab solving students technical support issues, to tier 1 support issues for staff and students, and eventually to managing second level phone and remote support for Penn State's 24 campuses.&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-84-156x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "http://it.psu.edu/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              }
+            },
+            {
+              "authorName": "Allergan, Rockaway NJ<br>",
+              "authorBio": "User",
+              "text": "I spent a summer working in Allergan's Information Security Office. I spent most of my designing and deploying a migration tool to transfer data between SharePoing and Box securely. I also built a Buisness Intelligence dashboard for the IT Compliance team to automate reports, have visualization and real-time data updates.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/allergan-logo-160x157.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.allergan.com/home",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              }
+            },
+            {
+              "authorName": "New Pig, Tipton PA",
+              "authorBio": "Developer",
+              "text": "New Pig is a leading brand in leak and spill containment, they played a huge role in the BP Oil spill. I spent a summer working in their IT department. I imaged and deployed machines to various departments and saved the company $10,000 by getting the project done ahead of my deadline and repurposing the old ones.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/new-pig-logo-132x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.newpig.com/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            },
+            ".card-block": {
+              "font-size": "15px",
+              "text-align": "center"
             }
           }
         },
@@ -125,7 +244,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/drone-city-lights-skyline-678499576h-1-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/drone-city-lights-skyline-678499577-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -136,7 +255,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hidkd-1-600x401.png",
+              "src": "@PROJECT_PATH@/assets/images/costaconcordiamuster-2-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -147,7 +266,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/istock-844535646h-1-600x425.jpg",
+              "src": "@PROJECT_PATH@/assets/images/istock-844535648-600x425.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

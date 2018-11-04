@@ -414,6 +414,19 @@ h6,
 #header2-2 .btn {
   font-size: 12px;
 }
+#testimonials4-8 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials4-8 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#testimonials4-8 .card-footer > div {
+  color: #ffffff;
+}
+#testimonials4-8 .card-block {
+  font-size: 15px;
+  text-align: center;
+}
 #social-buttons2-5 .mbr-section-title,
 #social-buttons2-5 .btn-social {
   color: #232323;
