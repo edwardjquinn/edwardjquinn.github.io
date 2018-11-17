@@ -23,8 +23,7 @@
       "additionalSetColors": [
         "#8ab0d4",
         "#a3c7e7",
-        "#2e2e2e",
-        "#222222"
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -132,7 +131,7 @@
             {
               "authorName": "iCorps Technologies, Boston MA<br>",
               "authorBio": "User",
-              "text": "iCorps Technologies, Microsoft Partner, is a prestegious comany. I have worked as a Systems Consultant at iCorps since graduation. In this position I help companies transform their businesses with emerging and leading technologies to help them meet their business and technology goals. As a valued member at iCorps I help implement and manage these technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
+              "text": "iCorps Technologies, Microsoft Partner, is a prestigious company. I have worked as a Systems Consultant at iCorps since graduation. In this position I help companies transform their businesses with emerging and leading technologies to help them meet their business and technology goals. As a valued member at iCorps I help implement and manage these technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-81-160x153.jpg",
@@ -168,7 +167,7 @@
             {
               "authorName": "Allergan, Rockaway NJ<br>",
               "authorBio": "User",
-              "text": "I spent a summer working in Allergan's Information Security Office. I spent most of my designing and deploying a migration tool to transfer data between SharePoing and Box securely. I also built a Buisness Intelligence dashboard for the IT Compliance team to automate reports, have visualization and real-time data updates.",
+              "text": "I spent a summer working in Allergan's Information Security Office. I spent most of my designing and deploying a migration tool to transfer data between SharePoint and Box securely. I also built a Business Intelligence dashboard for the IT Compliance team to automate reports, have visualization and real-time data updates.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/allergan-logo-160x157.png",
