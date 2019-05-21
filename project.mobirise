@@ -23,14 +23,15 @@
       "additionalSetColors": [
         "#8ab0d4",
         "#a3c7e7",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#876815"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 9,
-    "versionPublish": "4.8.4",
+    "uniqCompNum": 18,
+    "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -90,7 +91,7 @@
           },
           "title": "Ed Quinn",
           "text": "Learn about my experience, latest projects, how I spend my free time, and where I get my inspiration below!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume%20(6).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
           ],
