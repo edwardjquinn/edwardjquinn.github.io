@@ -149,9 +149,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "https://www.icorps.com/",
+                  "link": "https://www2.deloitte.com/us/en.html",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             },
@@ -166,9 +167,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "http://it.psu.edu/",
+                  "link": "https://www.icorps.com/",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             },
@@ -183,9 +185,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "https://www.allergan.com/home",
+                  "link": "http://it.psu.edu/",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             },
@@ -200,9 +203,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "https://www.newpig.com/",
+                  "link": "https://www.allergan.com/home",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             },
@@ -217,9 +221,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://www.newpig.com/",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             }
