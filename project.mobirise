@@ -54,7 +54,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "49",
+            "imageSize": "35",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
