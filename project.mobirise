@@ -143,7 +143,7 @@
             {
               "authorName": "Deloitte. New York, NY.<br>",
               "authorBio": "User",
-              "text": "At Deloitte I am a Cyber Risk Consultant. Through proactive management I work with teams to help design and implement solutions to some of today’s toughest cybersecurity challenges so our clients can achieve business growth and manage risk.",
+              "text": "<p>At Deloitte I am a Cyber Risk Consultant. Through proactive management I work in a team environment to help design and implement solutions to some of today’s toughest cybersecurity challenges so our clients can achieve business growth and manage risk. I am responsible for performing manual penetration testing against the OWASP Top 10 Vulnerabilities utilizing proxy tools such as Burp Suite. I have also conducted a Cloud Security assessment where I identified security gaps throughout business use of Microsoft Azure.&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/deloitte-logo-160x160.jpg",
@@ -161,7 +161,7 @@
             {
               "authorName": "iCorps Technologies. Boston, MA.",
               "authorBio": "User",
-              "text": "iCorps Technologies, Microsoft Partner, is a prestigious company. I worked as a Systems Consultant at iCorps upon graduation. In this position I helped companies transform their businesses with leading technologies to meet their business and technology goals. As a valued member at iCorps I helped implement and manage their technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
+              "text": "iCorps Technologies is a Microsoft Partner comapny where I worked as an IT Systems Consultant upon graduation. In this role I helped companies transform their businesses with leading technologies to meet their business and technology goals. As a valued member at iCorps I helped implement and manage their technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-81-160x153.jpg",
