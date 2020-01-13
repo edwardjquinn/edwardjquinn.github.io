@@ -1,0 +1,397 @@
+{
+  "settings": {
+    "name": "Site-10-05_0943",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#8ab0d4",
+        "#a3c7e7",
+        "#2e2e2e",
+        "#876815"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.4",
+    "siteFonts": [],
+    "uniqCompNum": 23,
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "font-size": "17px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header2-2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "35",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/new-york-city-desktop-background-2560x1600-for-ipad-wtg3085080-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720,
+              "url": ""
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/headshot-edit-export-2-1400x933.png",
+              "link": "index.html",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Ed Quinn.<br>",
+          "text": "Learn about my latest experience, projects, and where I get my inspiration below!<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            },
+            ".card-block": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>At Deloitte I am a Cyber Risk Consultant. Through proactive management I work in a team environment to help design and implement solutions to some of today’s toughest cybersecurity challenges so our clients can achieve business growth and manage risk. I am responsible for performing manual penetration testing against the OWASP Top 10 Vulnerabilities utilizing proxy tools such as Burp Suite. I have also conducted a Cloud Security assessment where I identified security gaps throughout business use of Microsoft Azure.&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/deloitte-logo-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www2.deloitte.com/us/en.html",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Deloitte. New York, NY.<br>",
+              "authorBio": "User"
+            },
+            {
+              "text": "iCorps Technologies is a Microsoft Partner I worked as an IT Systems Consultant upon graduation. In this role I helped companies transform their businesses with leading technologies to meet their business and technology goals. As a valued member at iCorps I helped implement and manage their technologies such as Azure, O365, SonicWALL, Datto, Sophos,, and Mimecast.&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-81-160x153.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.icorps.com/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "iCorps Technologies. Boston, MA.",
+              "authorBio": "User"
+            },
+            {
+              "text": "Alongside obtaining my degree at Penn State, I worked as an IT Consultant for three years at PSU Information Technology Services. I worked my way through the ranks for three years. I started in a computer lab solving technical support issues for students, then to Penn State headquarters office as a Tier 1 Support Consultant for staff and students. Eventually I managed second level phone and remote support for Penn State's 24 campuses staff and students.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-84-156x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "http://it.psu.edu/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Information Technology Services. State College, PA.",
+              "authorBio": "User"
+            },
+            {
+              "text": "I spent a summer working in Allergan's Information Security Office. I spent most of my time designing and deploying a migration tool to securely transfer data between SharePoint and Box. I also built a Business Intelligence dashboard for the IT Compliance team to automate reports, have visualization, and real-time data updates.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/allergan-logo-160x157.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.allergan.com/home",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Allergan. Rockaway, NJ.",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>New Pig is a leading brand in leak and spill containment, they played a huge role in the BP Oil spill. I spent a summer working in their IT department. I imaged and deployed machines to various departments and saved the company $10,000 by getting the project done ahead of my deadline and repurposing the old ones.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/new-pig-logo-132x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.newpig.com/",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "New Pig. Tipton, PA.",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials4-8",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.8"
+          },
+          "title": "My Professional Experience.",
+          "subtitle": "Some of the great companies I have worked for and the value I brought!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/drone-city-lights-skyline-678499577-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/Drone Attack Risk Assessment.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Drone Attack Response Plan",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br>I successfully project managed a Drone Safety Response Plan that includes actions for mitigating the probability and severity of outcomes during a drone terrorist attack.<br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Drone Attack Risk Assessment.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/costaconcordiamuster-2-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/Cruise Risk Assessment.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title2": "Cruise Evaucation Risk Assessment",
+          "subtitle2": "",
+          "caption2": "<br>In a team environment, we performed a risk assessment that looks into five major risk scenarios believed to be the most hazardous. The main focus was determining what was needed for a successful evacuation plan and assessing Carnivals current plan and come up with a plan to improve its weak points. &nbsp;<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/Cruise Risk Assessment.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/istock-844535648-600x425.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/Bank Efficiency Analysis.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title3": "Bank Efficiency Analysis",
+          "subtitle3": "",
+          "caption3": "<p><br>I worked with a team to create a project management plan for EY (Ernst &amp; Young), to improve profitability of a national bank client.<br></p><p><br></p><p><br></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"assets/files/Bank%20Efficiency%20Analysis.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/new-york-city-desktop-background-2560x1600-for-ipad-wtg3085080-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Connect with me.",
+          "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/ed-quinn-367871b2/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://medium.com/@edquinn111\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn\"></span></a>  "
+        }
+      ]
+    }
+  }
+}
