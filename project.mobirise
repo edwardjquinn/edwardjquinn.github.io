@@ -30,8 +30,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 23,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 24,
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -57,46 +57,49 @@
               "font-size": "14px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "font-size": "17px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "35",
-            "parallax": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "36",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new-york-city-desktop-background-2560x1600-for-ipad-wtg3085080-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/lower-manhattan-fidi0617-1600x1000.jpg",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "rawUrl": "",
               "width": 1280,
               "height": 720,
               "url": ""
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/headshot-edit-export-2-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/headshot-edit-export-3-1400x933.png",
               "link": "index.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -111,7 +114,7 @@
             }
           },
           "title": "Ed Quinn.<br>",
-          "text": "Learn about my latest experience, projects, and where I get my inspiration below!<br><br>",
+          "text": "<b>Learn about my latest experience, projects,<br>and where I get my inspiration below!<br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/equinn%20resume.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume&nbsp;<span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
@@ -231,22 +234,22 @@
           ],
           "_anchor": "testimonials4-8",
           "_params": {
-            "count": "5",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": true,
             "showName": true,
             "showBio": false,
+            "count": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#222222",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": "0.8"
           },
           "title": "My Professional Experience.",
           "subtitle": "Some of the great companies I have worked for and the value I brought!"
@@ -258,26 +261,26 @@
           "_name": "features3",
           "_anchor": "features3-3",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -380,13 +383,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/new-york-city-desktop-background-2560x1600-for-ipad-wtg3085080-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "Connect with me.",
           "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/ed-quinn-367871b2/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://medium.com/@edquinn111\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn\"></span></a>  "
